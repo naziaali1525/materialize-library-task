@@ -1,0 +1,14 @@
+.head{
+    font-size: 40px !important;
+}
+.fab{
+    font-size: 30px;
+}
+.contact-info{
+    margin: 5px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
